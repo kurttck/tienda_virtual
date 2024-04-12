@@ -218,9 +218,7 @@ footer .container {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  footer .container {
-    width: 500px;
-  }
+ 
 }
 
 /* Vista de telefono */
